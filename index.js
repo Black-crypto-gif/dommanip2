@@ -6,3 +6,7 @@ function randomNumber(min, max) {
 function randomColor() {
     return '#' + Math.floor(Math.random() * 16777215).toString(16);
 }
+// Generate random color function :
+function randomColor() {
+    return '#' + Math.floor(Math.random() * 16777215).toString(16);
+}
